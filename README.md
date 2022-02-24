@@ -1,2 +1,3 @@
 # Survival-rate-characteristics-for-HCC-patients-predictor
-This is the final project of Biostatistics class Cairo University 2019
+the final project of the Biostatistics class at Cairo University 2019   
+[blog article explaining this project](https://adelmoustafa098.github.io/indigo/hcc-survival-prediction/)  
